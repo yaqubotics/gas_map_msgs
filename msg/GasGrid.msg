@@ -1,0 +1,11 @@
+Header header
+float64 m_x_min
+float64 m_x_max
+float64 m_y_min
+float64 m_y_max
+float64 m_resolution
+uint64 m_size_x
+uint64 m_size_y
+uint64 N 
+float64[] mean
+float64[] var
